@@ -171,12 +171,12 @@
         </mxCell>
         <mxCell id="KHCn12DTf8Nf7HH3WOIN-0" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="KHCn12DTf8Nf7HH3WOIN-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="560" as="sourcePoint" />
+            <mxPoint x="180" y="560" as="sourcePoint" />
             <mxPoint x="180" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KHCn12DTf8Nf7HH3WOIN-1" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="140" y="520" width="80" height="80" as="geometry" />
+          <mxGeometry x="20" y="520" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
