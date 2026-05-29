@@ -31,14 +31,6 @@
         <mxCell id="K3gsYEq_aMP0udR5qFKA-4" value="货仓待生产分条完成后将待退数量告知采购" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K3gsYEq_aMP0udR5qFKA-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="K3gsYEq_aMP0udR5qFKA-6" target="K3gsYEq_aMP0udR5qFKA-8" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="K3gsYEq_aMP0udR5qFKA-10" value="以往" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="K3gsYEq_aMP0udR5qFKA-9" vertex="1" connectable="0">
-          <mxGeometry x="-0.1125" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="K3gsYEq_aMP0udR5qFKA-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="K3gsYEq_aMP0udR5qFKA-6" target="K3gsYEq_aMP0udR5qFKA-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -177,6 +169,9 @@
         </mxCell>
         <mxCell id="KHCn12DTf8Nf7HH3WOIN-2" value="货仓跟进系统确认采购是否已开退货单（1个工作日内完成）" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="20" y="520" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="TVYMCUuOeI47vp_0EJST-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TVYMCUuOeI47vp_0EJST-0" target="K3gsYEq_aMP0udR5qFKA-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TVYMCUuOeI47vp_0EJST-0" value="PMC确认在库待切退物料（1个月内切除）" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="680" width="120" height="60" as="geometry" />
