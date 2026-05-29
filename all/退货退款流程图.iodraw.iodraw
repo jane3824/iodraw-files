@@ -169,14 +169,11 @@
         <mxCell id="K3gsYEq_aMP0udR5qFKA-65" value="货仓待生产分条完成后&lt;span style=&quot;background-color: initial;&quot;&gt;将待退数量告知采购&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="640" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KHCn12DTf8Nf7HH3WOIN-0" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="KHCn12DTf8Nf7HH3WOIN-1">
+        <mxCell id="KHCn12DTf8Nf7HH3WOIN-0" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="560" as="sourcePoint" />
-            <mxPoint x="180" y="560" as="targetPoint" />
+            <mxPoint x="150" y="560" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="KHCn12DTf8Nf7HH3WOIN-1" value="货仓至系统确认是否已开退货单确认" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="20" y="520" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="KHCn12DTf8Nf7HH3WOIN-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="350" y="750" width="120" height="60" as="geometry" />
