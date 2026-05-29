@@ -121,7 +121,7 @@
         <mxCell id="K3gsYEq_aMP0udR5qFKA-43" value="立即切退" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="470" y="536" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TVYMCUuOeI47vp_0EJST-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="K3gsYEq_aMP0udR5qFKA-46" target="TVYMCUuOeI47vp_0EJST-0">
+        <mxCell id="TVYMCUuOeI47vp_0EJST-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="K3gsYEq_aMP0udR5qFKA-46" target="K3gsYEq_aMP0udR5qFKA-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K3gsYEq_aMP0udR5qFKA-46" value="待切退" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
@@ -137,9 +137,6 @@
         </mxCell>
         <mxCell id="K3gsYEq_aMP0udR5qFKA-50" value="采购于ERP系统开立《供方品质异常处理单》，同步开立《退货单》并立即审核" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="470" y="731" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="K3gsYEq_aMP0udR5qFKA-66" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;resizable=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="K3gsYEq_aMP0udR5qFKA-52" target="K3gsYEq_aMP0udR5qFKA-65" edge="1">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="K3gsYEq_aMP0udR5qFKA-52" value="采购于ERP系统开立《供方品质异常处理单》" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="640" y="640" width="120" height="60" as="geometry" />
