@@ -169,6 +169,12 @@
         <mxCell id="K3gsYEq_aMP0udR5qFKA-65" value="货仓待生产分条完成后&lt;span style=&quot;background-color: initial;&quot;&gt;将待退数量告知采购&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="640" y="770" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="KHCn12DTf8Nf7HH3WOIN-0" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="390" y="810" as="sourcePoint" />
+            <mxPoint x="440" y="760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
