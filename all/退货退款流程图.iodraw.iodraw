@@ -175,7 +175,7 @@
             <mxPoint x="150" y="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KHCn12DTf8Nf7HH3WOIN-2" value="货仓跟进系统确认采购是否已开退货单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="KHCn12DTf8Nf7HH3WOIN-2" value="货仓跟进系统确认采购是否已开退货单（1个工作日内完成）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="20" y="520" width="90" height="70" as="geometry" />
         </mxCell>
       </root>
