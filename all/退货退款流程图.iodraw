@@ -37,6 +37,9 @@
         <mxCell id="K3gsYEq_aMP0udR5qFKA-6" value="采购于ERP系统开立《退货单》" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="340" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TVYMCUuOeI47vp_0EJST-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="K3gsYEq_aMP0udR5qFKA-11" target="KHCn12DTf8Nf7HH3WOIN-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="K3gsYEq_aMP0udR5qFKA-11" value="采购开立系统《退货单》后立即审核" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="431" width="120" height="60" as="geometry" />
         </mxCell>
@@ -148,14 +151,20 @@
         <mxCell id="K3gsYEq_aMP0udR5qFKA-65" value="货仓待生产分条完成后&lt;span style=&quot;background-color: initial;&quot;&gt;将待退数量告知采购&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="640" y="836" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="TVYMCUuOeI47vp_0EJST-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="KHCn12DTf8Nf7HH3WOIN-2" target="K3gsYEq_aMP0udR5qFKA-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KHCn12DTf8Nf7HH3WOIN-2" value="货仓跟进系统确认采购是否已开退货单（1个工作日内完成）" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="120" y="520" width="120" height="64.5" as="geometry" />
+          <mxGeometry x="120" y="520" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TVYMCUuOeI47vp_0EJST-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TVYMCUuOeI47vp_0EJST-0" target="K3gsYEq_aMP0udR5qFKA-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="TVYMCUuOeI47vp_0EJST-0" value="PMC确认在库待切退物料（1个月内切除）" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="640" y="636" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="TVYMCUuOeI47vp_0EJST-5" value="货仓跟进系统确认采购是否已开退货单（1个工作日内完成）" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="130" y="530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
