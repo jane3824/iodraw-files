@@ -176,7 +176,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KHCn12DTf8Nf7HH3WOIN-2" value="货仓跟进系统确认采购是否已开退货单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="60" y="535" width="90" height="45" as="geometry" />
+          <mxGeometry x="30" y="535" width="110" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
