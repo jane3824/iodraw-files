@@ -165,11 +165,8 @@
         <mxCell id="KHCn12DTf8Nf7HH3WOIN-2" value="货仓跟进系统确认采购是否已开退货单（1个工作日内完成）" style="rounded=1;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="120" y="520" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TVYMCUuOeI47vp_0EJST-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TVYMCUuOeI47vp_0EJST-0" target="K3gsYEq_aMP0udR5qFKA-52">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="TVYMCUuOeI47vp_0EJST-0" value="PMC确认在库待切退物料（1个月内切除）" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="640" y="750" width="120" height="60" as="geometry" />
+          <mxGeometry x="640" y="731" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
