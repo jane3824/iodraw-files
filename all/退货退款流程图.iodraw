@@ -145,7 +145,12 @@
           <mxGeometry x="640" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="TVYMCUuOeI47vp_0EJST-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="K3gsYEq_aMP0udR5qFKA-54" target="KHCn12DTf8Nf7HH3WOIN-2">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="390" y="947" />
+              <mxPoint x="390" y="550" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="K3gsYEq_aMP0udR5qFKA-54" value="采购开立《退货单》并立即审核" style="whiteSpace=wrap;html=1;rounded=1;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="640" y="917" width="120" height="60" as="geometry" />
